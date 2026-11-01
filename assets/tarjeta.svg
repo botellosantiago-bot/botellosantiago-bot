@@ -2,16 +2,16 @@
 <style>text{font:14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#d6e2f0}.l,.k{animation:in .06s linear both}@keyframes in{from{opacity:0}to{opacity:1}}</style>
 <rect width="100%" height="100%" rx="10" fill="#0d1117"/>
 <text x="24" y="38"><tspan fill="#e8834f">❯</tspan> <tspan class="k" style="animation-delay:0.00s">n</tspan><tspan class="k" style="animation-delay:0.08s">e</tspan><tspan class="k" style="animation-delay:0.16s">o</tspan><tspan class="k" style="animation-delay:0.24s">f</tspan><tspan class="k" style="animation-delay:0.32s">e</tspan><tspan class="k" style="animation-delay:0.40s">t</tspan><tspan class="k" style="animation-delay:0.48s">c</tspan><tspan class="k" style="animation-delay:0.56s">h</tspan></text>
-<g class="l" style="animation-delay:0.89s"><text x="24" y="68.8" ><tspan fill="#e8834f" font-weight="700">santiago@construyendo-ia</tspan></text></g>
-<g class="l" style="animation-delay:0.89s"><rect x="24" y="82.0" width="202" height="1.5" fill="#7d8590"/></g>
-<g class="l" style="animation-delay:1.07s"><text x="24" y="104.0"><tspan fill="#e8834f" font-weight="700">Rol</tspan><tspan fill="#7d8590">: </tspan>CTO · Construyendo IA</text></g>
+<g class="l" style="animation-delay:0.89s"><text x="24" y="68.8" ><tspan fill="#e8834f" font-weight="700">santiago@botellorex</tspan></text></g>
+<g class="l" style="animation-delay:0.89s"><rect x="24" y="82.0" width="160" height="1.5" fill="#7d8590"/></g>
+<g class="l" style="animation-delay:1.07s"><text x="24" y="104.0"><tspan fill="#e8834f" font-weight="700">Rol</tspan><tspan fill="#7d8590">: </tspan>CTO · IA para negocios</text></g>
 <g class="l" style="animation-delay:1.25s"><text x="24" y="126.0"><tspan fill="#e8834f" font-weight="700">Negocio</tspan><tspan fill="#7d8590">: </tspan>Soluciones de IA para empresas</text></g>
 <g class="l" style="animation-delay:1.43s"><text x="24" y="148.0"><tspan fill="#e8834f" font-weight="700">Web</tspan><tspan fill="#7d8590">: </tspan>Implementaciones web a la medida</text></g>
 <g class="l" style="animation-delay:1.61s"><text x="24" y="170.0"><tspan fill="#e8834f" font-weight="700">Finanzas</tspan><tspan fill="#7d8590">: </tspan>Administración empresarial y financiera</text></g>
 <g class="l" style="animation-delay:1.79s"><text x="24" y="192.0"><tspan fill="#e8834f" font-weight="700">Automatiza</tspan><tspan fill="#7d8590">: </tspan>Agentes, CRM y flujos con IA</text></g>
 <g class="l" style="animation-delay:1.97s"><text x="24" y="214.0"><tspan fill="#e8834f" font-weight="700">Stack</tspan><tspan fill="#7d8590">: </tspan>Next.js · TypeScript · Supabase · Python</text></g>
 <g class="l" style="animation-delay:2.15s"><text x="24" y="236.0"><tspan fill="#e8834f" font-weight="700">IA</tspan><tspan fill="#7d8590">: </tspan>Claude · agentes · RAG</text></g>
-<g class="l" style="animation-delay:2.33s"><text x="24" y="258.0"><tspan fill="#e8834f" font-weight="700">Contenido</tspan><tspan fill="#7d8590">: </tspan>@botellorex.ia · IA para negocios</text></g>
+<g class="l" style="animation-delay:2.33s"><text x="24" y="258.0"><tspan fill="#e8834f" font-weight="700">Contenido</tspan><tspan fill="#7d8590">: </tspan>@botellorex.ia</text></g>
 <g class="l" style="animation-delay:2.51s"><text x="24" y="280.0"><tspan fill="#e8834f" font-weight="700">Base</tspan><tspan fill="#7d8590">: </tspan>México</text></g>
 <g class="l" style="animation-delay:2.69s"><rect x="24" y="308.6" width="24" height="14" rx="2" fill="#e8834f"/><rect x="50" y="308.6" width="24" height="14" rx="2" fill="#3fb950"/><rect x="76" y="308.6" width="24" height="14" rx="2" fill="#d29922"/><rect x="102" y="308.6" width="24" height="14" rx="2" fill="#58a6ff"/><rect x="128" y="308.6" width="24" height="14" rx="2" fill="#bc8cff"/><rect x="154" y="308.6" width="24" height="14" rx="2" fill="#39c5cf"/><rect x="180" y="308.6" width="24" height="14" rx="2" fill="#d6e2f0"/></g>
 </svg>

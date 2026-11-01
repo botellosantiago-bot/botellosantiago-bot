@@ -8,16 +8,16 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 ESTATICO = "--estatico" in sys.argv
 
-USUARIO = "santiago@construyendo-ia"
+USUARIO = "santiago@botellorex"
 DATOS = [
-    ("Rol", "CTO · Construyendo IA"),
+    ("Rol", "CTO · IA para negocios"),
     ("Negocio", "Soluciones de IA para empresas"),
     ("Web", "Implementaciones web a la medida"),
     ("Finanzas", "Administración empresarial y financiera"),
     ("Automatiza", "Agentes, CRM y flujos con IA"),
     ("Stack", "Next.js · TypeScript · Supabase · Python"),
     ("IA", "Claude · agentes · RAG"),
-    ("Contenido", "@botellorex.ia · IA para negocios"),
+    ("Contenido", "@botellorex.ia"),
     ("Base", "México"),
 ]
 ACENTO = "#e8834f"
