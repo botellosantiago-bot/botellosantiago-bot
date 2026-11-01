@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+# solo para el retrato, en local
+pillow
+numpy
+opencv-python-headless
