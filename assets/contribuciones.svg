@@ -366,5 +366,6 @@
 <rect class="c" x="738" y="110" width="11" height="11" rx="2" fill="#5a2e1a" style="animation-delay:1.53s"><title>2026-11-05</title></rect>
 <rect class="c" x="738" y="124" width="11" height="11" rx="2" fill="#5a2e1a" style="animation-delay:1.53s"><title>2026-11-06</title></rect>
 <rect class="c" x="738" y="138" width="11" height="11" rx="2" fill="#5a2e1a" style="animation-delay:1.53s"><title>2026-11-07</title></rect>
-<rect class="c" x="752" y="54" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.56s"><title>2026-11-08</title></rect>
+<rect class="c" x="752" y="54" width="11" height="11" rx="2" fill="#5a2e1a" style="animation-delay:1.56s"><title>2026-11-08</title></rect>
+<rect class="c" x="752" y="68" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.56s"><title>2026-11-09</title></rect>
 </svg>
